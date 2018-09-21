@@ -1,5 +1,3 @@
-# LABBO
-
 Arquivos referente ao teste
 
 Arquivo labbo.rar usando Framework Codeigniter
